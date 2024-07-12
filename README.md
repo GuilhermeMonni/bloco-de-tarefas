@@ -16,7 +16,7 @@ Este é um sistema CRUD para anotações de tarefas. Foi criado utilizando as te
 1. Clone este repositório para o diretório do seu servidor web.
 2. Importe o arquivo SQL bd-tarefas.sql para criar o banco de dados e a tabela necessária.
 3. Configure as credenciais do banco de dados no arquivo database.js
-4. Abra o sistema no seu navegador e teste.
+4. Abra o sistema no seu navegador ("npm start" no terminal dentro das pastas api e front-end) e teste.
 
 
 # Estrutura do Projeto
