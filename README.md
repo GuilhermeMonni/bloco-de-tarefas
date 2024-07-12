@@ -33,11 +33,12 @@ Este é um sistema CRUD para anotações de tarefas. Foi criado utilizando as te
     -Form.js: Arquivo utilizado para criar e estilizar a entrada de dados no formulário. <br>
     -Grid.js: Arquivo utilizado para estilizar e mostrar tarefas criadas. <br>
   Pasta styles:
+    -global.js: Arquivo para definir um estilo global.
+  -App.js: Interface principal do arquivo.
+  -index.js: Aquivo utilizado para montar o componente principalna árvore DOM do navegador.
 
-
-
-  
-  package.json: Arquivo utilizado para gerenciar o projeto e suas dependências.
+  -bd-tarefas.sql: Banco de dados do projeto.  
+  -package.json: Arquivo utilizado para gerenciar o projeto e suas dependências.
   
 
 
@@ -48,7 +49,6 @@ Este é um sistema CRUD para anotações de tarefas. Foi criado utilizando as te
 
 # Observações
 Este projeto foi desenvolvido para fins didáticos.
-A segurança do sistema é básica e deve ser aprimorada para uso em produção.
 ##
 
 Sinta-se à vontade para abrir um issue no repositório caso tenha alguma sugestão.
