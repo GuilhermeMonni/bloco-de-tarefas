@@ -1,4 +1,4 @@
-# Sistema-login
+# Bloco de tarefas
 Este é um sistema CRUD para anotações de tarefas. Foi criado utilizando as tecnologias: JavaScript, NodeJS, ReactJS e MySql. 
 
 # Funcionalidades
