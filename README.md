@@ -22,21 +22,20 @@ Este é um sistema CRUD para anotações de tarefas. Foi criado utilizando as te
 # Estrutura do Projeto
 * Pasta API: <br>
   Pasta controllers:<br>
-    -user.js, arquivo utilizado para consultas ao banco. <br>
+    -user.js, arquivo utilizado para consultas ao banco. <br><br>
   Pasta routes:<br>
-     -users.js, arquivo utilizado para definir as rotas do usuário. <br>
+     -users.js, arquivo utilizado para definir as rotas do usuário. <br><br>
   -database.js: Arquivo utilizado para fazer a conexão com o banco de dados. <br>
   -index.js: Arquivo utilizado para criar um servidor web. <br>
 
 * Pasta front-end:<br>
   Pasta components:<br>
     -Form.js: Arquivo utilizado para criar e estilizar a entrada de dados no formulário. <br>
-    -Grid.js: Arquivo utilizado para estilizar e mostrar tarefas criadas. <br>
+    -Grid.js: Arquivo utilizado para estilizar e mostrar tarefas criadas. <br><br>
   Pasta styles:<br>
-    -global.js: Arquivo para definir um estilo global.<br>
+    -global.js: Arquivo para definir um estilo global para o projeto.<br><br>
   -App.js: Interface principal do arquivo.<br>
   -index.js: Aquivo utilizado para montar o componente principalna árvore DOM do navegador.<br><br>
-
   -bd-tarefas.sql: Banco de dados do projeto.  <br>
   -package.json: Arquivo utilizado para gerenciar o projeto e suas dependências.<br>
   
