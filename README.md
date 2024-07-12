@@ -32,13 +32,13 @@ Este é um sistema CRUD para anotações de tarefas. Foi criado utilizando as te
   Pasta components:<br>
     -Form.js: Arquivo utilizado para criar e estilizar a entrada de dados no formulário. <br>
     -Grid.js: Arquivo utilizado para estilizar e mostrar tarefas criadas. <br>
-  Pasta styles:
-    -global.js: Arquivo para definir um estilo global.
-  -App.js: Interface principal do arquivo.
-  -index.js: Aquivo utilizado para montar o componente principalna árvore DOM do navegador.
+  Pasta styles:<br>
+    -global.js: Arquivo para definir um estilo global.<br>
+  -App.js: Interface principal do arquivo.<br>
+  -index.js: Aquivo utilizado para montar o componente principalna árvore DOM do navegador.<br><br>
 
-  -bd-tarefas.sql: Banco de dados do projeto.  
-  -package.json: Arquivo utilizado para gerenciar o projeto e suas dependências.
+  -bd-tarefas.sql: Banco de dados do projeto.  <br>
+  -package.json: Arquivo utilizado para gerenciar o projeto e suas dependências.<br>
   
 
 
