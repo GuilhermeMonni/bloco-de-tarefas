@@ -41,11 +41,6 @@ Este é um sistema CRUD para anotações de tarefas. Foi criado utilizando as te
   
 
 
-# Em breve
-- Algumas outras funcionalidades estão sendo desenvolvidas.
-
-
-
 # Observações
 Este projeto foi desenvolvido para fins didáticos.
 ##
